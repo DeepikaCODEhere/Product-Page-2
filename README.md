@@ -12,7 +12,7 @@
   - Custom styled radio buttons and dropdowns
 
 ## URLs
-- **Development**: https://3000-idjcuaa4m9o5e1fqkxorf-ad490db5.sandbox.novita.ai
+- **Development**: [https://bundle-save.pages.dev/]
 - **GitHub**: (Not yet deployed)
 
 ## Currently Completed Features
